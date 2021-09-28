@@ -7,7 +7,7 @@ FLIM_analysis can be used to build lifetime and A1% images, and their quantifica
 
 FV_analysis can be used to quantify evoked-calcium transients. 
 
-Liescan_analysis can be used to quantify release probability by using iGluSnFR linescanning data.
+Linescan_analysis can be used to quantify release probability by using iGluSnFR linescanning data.
 
 miniEPSC_analysis can be used to quantify frequencies and amplitudes of miniEPSCs.
   Forusing miniEPSC, an additional function (findpeakG) is necessary which can be downloaded from 
