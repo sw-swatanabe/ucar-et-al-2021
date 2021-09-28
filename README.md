@@ -2,7 +2,7 @@
 # 
 These are the Matlab codes that were used in Ucar et all., Nature 2021.
 
-FLIM_analysis can be used to build lifetime images and A1% images and their quantification. 
+FLIM_analysis can be used to build lifetime and A1% images, and their quantification. 
    or this program to function, 'Read_PTU_tag.m', which is provided by PicoQuant, is required.
 
 FV_analysis can be used to quantify evoked-calcium transients. 
