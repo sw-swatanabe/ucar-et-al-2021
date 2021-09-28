@@ -10,6 +10,6 @@ FV_analysis can be used to quantify evoked-calcium transients.
 Linescan_analysis can be used to quantify release probability by using iGluSnFR linescanning data.
 
 miniEPSC_analysis can be used to quantify frequencies and amplitudes of miniEPSCs.
-  Forusing miniEPSC, an additional function (findpeakG) is necessary which can be downloaded from 
+  For using miniEPSC, an additional function (findpeakG) is necessary which can be downloaded from 
   https://www.mathworks.com/matlabcentral/fileexchange/11755-peak-finding-and-measurement-2019 
       
