@@ -1,5 +1,6 @@
 # ucar-et-al-2021
-# these are the Matlab codes that were used in Ucar et all., Nature 2021
+# 
+These are the Matlab codes that were used in Ucar et all., Nature 2021
 
 # FLIM_analysis can be used to build lifetime images and A1% images and their quantification. 
   #For this program to function, 'Read_PTU_tag.m', which is provided by PicoQuant, is required.
